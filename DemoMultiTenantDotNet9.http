@@ -1,0 +1,6 @@
+@DemoMultiTenantDotNet9_HostAddress = http://localhost:5188
+
+GET {{DemoMultiTenantDotNet9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
